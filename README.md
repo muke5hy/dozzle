@@ -232,6 +232,6 @@ To Build and test locally:
 
 1. Install [NodeJs](https://nodejs.org/en/download/) and [pnpm](https://pnpm.io/installation).
 2. Install [Go](https://go.dev/doc/install).
-3. Install [reflex](https://github.com/cespare/reflex) with `go get -u github.com/cespare/reflex` outside of dozzle.
+3. Install [reflex](https://github.com/cespare/reflex) with `go install github.com/cespare/reflex@latest` outside of dozzle.
 4. Install node modules `pnpm install`.
 5. Do `pnpm dev`
